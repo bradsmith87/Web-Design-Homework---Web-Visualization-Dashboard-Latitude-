@@ -1,0 +1,47 @@
+.imageNav-content {
+   margin-top: 20px;
+   color:darkcyan; 
+   background-color: white;
+}
+.container {
+    margin-top: 20px;
+    color:darkcyan
+
+}
+.navbar-brand {
+   background-color: darkcyan; 
+   Color: white
+}
+body {
+    background-color: darksalmon;
+}
+.description-content {
+    background-color: white;
+}
+.imageNav-photo { 
+    width: 140px;
+}
+
+.display-photo {
+    width: 140px;
+}
+
+.comparison-photo {
+    width: 350px;
+}
+.comparison-photo:hover {
+    opacity: 0.3;
+}
+.card-text {
+    color: black;
+}
+.imagecomp-content {
+    background-color: blanchedalmond;
+    margin-left: 400px;
+    margin-top: 20px;
+    max-width: 900px;
+    max-height: 1000px;   
+}
+.column {
+    margin-left: 50px;
+}
